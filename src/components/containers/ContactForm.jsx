@@ -16,15 +16,15 @@ const ContactForm = () => {
   } = useForm();
 
   const onSubmit = (data) => {
-    //   const templateParams = {
-    //     name: "James",
-    //     subject: "Check this out!",
-    //     message: "Check Test Message out!",
-    //     email: "akileus000@gmail.com",
-    //   };
-    //   console.log(currentForm.current);
+  //   const templateParams = {
+  //     name: "James",
+  //     subject: "Check this out!",
+  //     message: "Check Test Message out!",
+  //     email: "akileus000@gmail.com",
+  //   };
+  //   console.log(currentForm.current);
     emailjs
-      .send(
+      .sendForm(
         settings.emailjs_serviceid,
         settings.emailjs_templateid,
         currentForm.current,

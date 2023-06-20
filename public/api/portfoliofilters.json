@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Front-end",
+        "value": "frontend"
+    },
+    {
+        "id": 2,
+        "title": "Back-end",
+        "value": "backend"
+    },
+    {
+        "id": 3,
+        "title": "Full-stack",
+        "value": "fullstack"
+    },
+    {
+        "id": 4,
+        "title": "blockchain",
+        "value": "blockchain"
+    }
+]

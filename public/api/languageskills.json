@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Javascript",
+    "percentage": 99
+  },
+  {
+    "id": 2,
+    "title": "React Js",
+    "percentage": 99
+  },
+  {
+    "id": 3,
+    "title": "Serverless",
+    "percentage": 95
+  },
+  {
+    "id": 4,
+    "title": "Angular Js",
+    "percentage": 80
+  },
+  {
+    "id": 5,
+    "title": "AWS, GCP",
+    "percentage": 80
+  },
+  {
+    "id": 6,
+    "title": "Typescript",
+    "percentage": 90
+  },
+  {
+    "id": 7,
+    "title": "Agile",
+    "percentage": 99
+  },
+  {
+    "id": 8,
+    "title": "Vue",
+    "percentage": 90
+  },
+  {
+    "id": 9,
+    "title": "SQL (Postgre, MySQL, Dynamo)",
+    "percentage": 90
+  },
+  {
+    "id": 10,
+    "title": "Python (Django)",
+    "percentage": 95
+  },
+  {
+    "id": 11,
+    "title": "Php (Laravel)",
+    "percentage": 90
+  },
+  {
+    "id": 12,
+    "title": "Node.js (Express, Nest)",
+    "percentage": 95
+  },
+  {
+    "id": 13,
+    "title": "Blockchain",
+    "percentage": 99
+  }
+]

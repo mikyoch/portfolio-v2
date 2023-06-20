@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Web Developer",
+    "meta": "Niyati Technologies Pte Ltd.",
+    "text": "As a front-end developer, I designed and built user-centric applications using React, TypeScript, and MobX, contributing to various projects including a STEAM course platform and a company management system, which improved administrative efficiency by 40%.",
+    "year": "2016 - 2018"
+  },
+  {
+    "id": 2,
+    "title": "Full-Stack Developer",
+    "meta": "Ranosys Technologies.",
+    "text": "As a full-stack developer, I've contributed to multiple teams, delivering single-page applications for sectors like real estate using React and Node.js, enhancing company website traffic, developing an automated SMS system, creating a customer management CRM system.",
+    "year": "2018 - 2020"
+  },
+  {
+    "id": 3,
+    "title": "Full-Stack Developer",
+    "meta": "Individual Programmer.",
+    "text": "As a full-stack developer, I've constructed and integrated front-end pages for multiple blockchain web applications using modern tech stacks, developed over a dozen smart contracts on various blockchain networks, spearheaded NFT and Defi projects, and crafted reusable React and Vue components, leading to a 30% reduction in development effort.",
+    "year": "2020 - Present"
+  }
+]

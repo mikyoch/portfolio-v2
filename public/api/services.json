@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Innovative ideas",
+    "text": "creative solutions to tackle any complex problems arising and implement new strategies.",
+    "icon": "/icons/innovative.svg"
+  },
+  {
+    "id": 2,
+    "title": "Front-end Development",
+    "text": "Beautiful, high-performing, user-friendly, and optimized for a superior user experience website frontend.",
+    "icon": "/icons/front-end-development.svg"
+  },
+  {
+    "id": 3,
+    "title": "Back-end Development",
+    "text": "Continually honing my skills for reliable backend, with a focus on quality and performance-driven APIs.",
+    "icon": "/icons/code-s-slash-line.svg"
+  },
+  {
+    "id": 4,
+    "title": "Teamwork",
+    "text": "Effective team player who is responsive, reliable, and collaborative, engaging.",
+    "icon": "/icons/team-work.svg"
+  },
+  {
+    "id": 5,
+    "title": "Blockchain",
+    "text": "Only web2? Look, there's a web3 coming, everything will be decentralized...",
+    "icon": "/icons/blockchain.svg"
+  },
+  {
+    "id": 6,
+    "title": "Extra",
+    "text": "Staying up-to-date, keeping track of the latest advancements",
+    "icon": "/icons/extra-work.svg"
+  }
+]

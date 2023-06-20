@@ -1,0 +1,22 @@
+{
+  "firstName": "Eugene",
+  "lastName": "Chiu",
+  "fullName": "Eugene Chiu",
+  "thumbImage": "/images/formal-image.png",
+  "largeImage": "/images/about-image.jpg",
+  "bio1": "Professional Full-stack developer with 7 years of hands-on experience in and meaningful contributions to implementing applications and solutions using a variety of programming languages and technologies.",
+  "bio2": "Active and passionate learner – always trying to stay up to date with the latest technologies. Emphasis on writing scalable, well-documented and clean code while ensuring that the customer is satisfied with the product and service provided.",
+  "age": 29,
+  "nationality": "Singaporean",
+  "languages": ["English"],
+  "address": "302 Gloucester St, Ottawa, Canada",
+  "freelance": "Available",
+  "socialAddress": {
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com/dev_akileus",
+    "github": "https://github.com/gitakileus",
+    "linkedin": "https://www.linkedin.com/in/eugene-chiu"
+  },
+  "phoneNumbers": ["+1-347-349-5252"],
+  "emailAddress": ["akileus0902@gmail.com", "akileus0902@outlook.com"]
+}

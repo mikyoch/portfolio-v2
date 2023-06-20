@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "title": "Cypherfighters",
+    "subtitle": "NFT minting site (Ethereum Network)",
+    "coverimage": "/images/portfolios/cypherfighters/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/cypherfighters/1.jpg",
+      "/images/portfolios/cypherfighters/2.jpg",
+      "/images/portfolios/cypherfighters/3.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://6490efcc00fa3a48770d5035--glittery-pasca-e276af.netlify.app",
+    "filters": ["blockchain", "fullstack"]
+  },
+  {
+    "id": 2,
+    "title": "Datconsultancy",
+    "subtitle": "Consultancy web site",
+    "coverimage": "/images/portfolios/datconsultancy/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/datconsultancy/1.png",
+      "/images/portfolios/datconsultancy/2.png",
+      "/images/portfolios/datconsultancy/3.png",
+      "/images/portfolios/datconsultancy/4.png"
+    ],
+    "videogallery": false,
+    "url": "https://www.datconsultancy.com/",
+    "filters": ["frontend"]
+  },
+  {
+    "id": 3,
+    "title": "lingo",
+    "subtitle": "Lingo token minting site (BSC Network)",
+    "coverimage": "/images/portfolios/lingo/0.jpg",
+    "imagegallery": ["/images/portfolios/lingo/1.jpg"],
+    "videogallery": false,
+    "url": "https://spontaneous-pie-5a179d.netlify.app",
+    "filters": ["fullstack", "blockchain"]
+  },
+  {
+    "id": 4,
+    "title": "Auxxio",
+    "subtitle": "Auxxio NFT minting site (BSC Network)",
+    "coverimage": "/images/portfolios/auxxio/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/auxxio/1.png",
+      "/images/portfolios/auxxio/2.png",
+      "/images/portfolios/auxxio/3.png"
+    ],
+    "videogallery": false,
+    "url": "https://auxxland-front.vercel.app",
+    "filters": ["fullstack", "blockchain"]
+  },
+  {
+    "id": 5,
+    "title": "Solkitties Sweeper",
+    "subtitle": "Solkitties NFT Sweeper Site",
+    "coverimage": "/images/portfolios/sweeper/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/sweeper/1.jpg",
+      "/images/portfolios/sweeper/2.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://lucent-paletas-e6dd1a.netlify.app",
+    "filters": ["frontend"]
+  },
+  {
+    "id": 6,
+    "title": "Solkitties",
+    "subtitle": "Sol Kitties NFT",
+    "coverimage": "/images/portfolios/solkitties/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/solkitties/1.jpg",
+      "/images/portfolios/solkitties/2.jpg",
+      "/images/portfolios/solkitties/3.jpg",
+      "/images/portfolios/solkitties/4.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://www.solkitties.net",
+    "filters": ["frontend"]
+  },
+  {
+    "id": 7,
+    "title": "deezkits",
+    "subtitle": "Deezkits NFT mini game site",
+    "coverimage": "/images/portfolios/deezkits/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/deezkits/1.jpg",
+      "/images/portfolios/deezkits/2.jpg",
+      "/images/portfolios/deezkits/3.jpg",
+      "/images/portfolios/deezkits/4.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://deezkits.com/",
+    "filters": ["blockchain", "frontend"]
+  },
+  {
+    "id": 8,
+    "title": "Dos Pharmacy",
+    "subtitle": "Pharmacy Website",
+    "coverimage": "/images/portfolios/pharmacy/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/pharmacy/1.jpg",
+      "/images/portfolios/pharmacy/2.jpg",
+      "/images/portfolios/pharmacy/3.jpg",
+      "/images/portfolios/pharmacy/4.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://www.dos-pharmacy.ml",
+    "filters": ["backend"]
+  },
+  {
+    "id": 9,
+    "title": "Iollo",
+    "subtitle": "Healthcare website using AI.",
+    "coverimage": "/images/portfolios/iollo/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/iollo/1.jpg",
+      "/images/portfolios/iollo/2.jpg",
+      "/images/portfolios/iollo/3.jpg",
+      "/images/portfolios/iollo/4.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://www.iollo.com/",
+    "filters": ["backend"]
+  },
+  {
+    "id": 10,
+    "title": "hifly.aero",
+    "subtitle": "Airline company website",
+    "coverimage": "/images/portfolios/fly/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/fly/1.jpg",
+      "/images/portfolios/fly/2.jpg",
+      "/images/portfolios/fly/3.jpg",
+      "/images/portfolios/fly/4.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://hifly.aero/",
+    "filters": ["frontend"]
+  },
+  {
+    "id": 11,
+    "title": "coursekosh",
+    "subtitle": "Course provide platform",
+    "coverimage": "/images/portfolios/coursekosh/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/coursekosh/1.png",
+      "/images/portfolios/coursekosh/2.png",
+      "/images/portfolios/coursekosh/3.png",
+      "/images/portfolios/coursekosh/4.png",
+      "/images/portfolios/coursekosh/5.png"
+    ],
+    "videogallery": false,
+    "url": "http://coursekosh.com/",
+    "filters": ["backend"]
+  },
+  {
+    "id": 12,
+    "title": "gpt imperiumgrouppr",
+    "subtitle": "GPT chat using chatgpt",
+    "coverimage": "/images/portfolios/impreirum/0.jpg",
+    "imagegallery": false,
+    "videogallery": false,
+    "url": "https://gpt.imperiumgrouppr.com/",
+    "filters": ["fullstack"]
+  },
+  {
+    "id": 13,
+    "title": "dollarback",
+    "subtitle": "Defi Project",
+    "coverimage": "/images/portfolios/dollarback/0.jpg",
+    "imagegallery": [
+      "/images/portfolios/dollarback/1.jpg",
+      "/images/portfolios/dollarback/2.jpg",
+      "/images/portfolios/dollarback/3.jpg",
+      "/images/portfolios/dollarback/4.jpg"
+    ],
+    "videogallery": false,
+    "url": "https://dollarback.io/",
+    "filters": ["blockchain", "frontend"]
+  }
+]

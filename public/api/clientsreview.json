@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sam Matari",
+    "meta": "Student",
+    "givenreview": 5.0,
+    "image": "/images/clients/SamMatari.jpg",
+    "text": "It was a pleasure to collaborate with Eugene. He is a very talented programmer with up-to-date knowledge. Eugene completed my project earlier than I had anticipated, and it worked perfectly. He and I will undoubtedly collaborate again in the future."
+  },
+  {
+    "id": 2,
+    "name": "Bernard Sibanda",
+    "meta": "Women In Move Solutions (Pty) Ltd",
+    "givenreview": 4.2,
+    "image": "https://avatars.githubusercontent.com/u/44117539?v=4",
+    "text": "He is well organized and personable with an obvious passion for blockchain development. I learned a lot from his in-depth expertise in software development."
+  },
+  {
+    "id": 3,
+    "name": "Samuel Safahi",
+    "meta": "Chief Executive Officer at Candle Labs",
+    "givenreview": 4.2,
+    "image": "/images/clients/SamuelSafahi.webp",
+    "text": "He has a profound understanding of project development, so he knows exactly what employers need and what our developers are looking for, and he can efficiently match the two."
+  },
+  {
+    "id": 4,
+    "name": "Lukas Stefanko",
+    "meta": "EduCrypt CEO",
+    "givenreview": 4.7,
+    "image": "/images/clients/LukasStefanko.jpg",
+    "text": "As an experienced and a very learned developer, he would also show me the tricks and best practices of software development."
+  },
+  {
+    "id": 5,
+    "name": "Gergely Orosz",
+    "meta": "Upwork",
+    "givenreview": 5,
+    "image": "/images/clients/gergelyorosz.png",
+    "text": "Eugene delivers and is a joy to work with! It's rare to find an individual with the skills to deliver on the task, but also the creativity to expand and enhance.  I look forward to seeing what we will build together in the future and strongly recommend you also work with Eugene."
+  }
+]

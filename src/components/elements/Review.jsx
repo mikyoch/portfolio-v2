@@ -4,7 +4,7 @@ import { imageLoader, shimmer, toBase64 } from "../../lib/utils";
 
 const Review = ({ review: { name, meta, givenreview, image, text } }) => {
   return (
-    <div className="review card mt-11 p-4 md:p-5">
+    <div className="review card mt-11 h-full p-4 md:p-5">
       <div className="review-image fiximage relative -mt-14 mb-4 inline-block h-20 w-20 overflow-hidden rounded-full border-4 border-primary md:-mt-16">
         <Image
           loader={imageLoader}

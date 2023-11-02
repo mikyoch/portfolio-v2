@@ -6,7 +6,7 @@ const Index = () => {
   return (
     <Layout2>
       <Head>
-        <title>Eugene - Personal Portfolio</title>
+        <title>Stephen - Personal Portfolio</title>
       </Head>
 
       {/* Start Hero Section */}

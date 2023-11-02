@@ -6,6 +6,12 @@
     "icon": "/icons/innovative.svg"
   },
   {
+    "id": 5,
+    "title": "Blockchain",
+    "text": "Only web2? Look, there's a web3 coming, everything will be decentralized...",
+    "icon": "/icons/blockchain.svg"
+  },
+  {
     "id": 2,
     "title": "Front-end Development",
     "text": "Beautiful, high-performing, user-friendly, and optimized for a superior user experience website frontend.",
@@ -22,12 +28,6 @@
     "title": "Teamwork",
     "text": "Effective team player who is responsive, reliable, and collaborative, engaging.",
     "icon": "/icons/team-work.svg"
-  },
-  {
-    "id": 5,
-    "title": "Blockchain",
-    "text": "Only web2? Look, there's a web3 coming, everything will be decentralized...",
-    "icon": "/icons/blockchain.svg"
   },
   {
     "id": 6,

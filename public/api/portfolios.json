@@ -1,6 +1,20 @@
 [
   {
     "id": 1,
+    "title": "Fly2sonic",
+    "subtitle": "Data provider on FTSO (Flare Time Series Oracle)",
+    "coverimage": "/images/portfolios/fly2sonic/0.png",
+    "imagegallery": [
+      "/images/portfolios/fly2sonic/0.png",
+      "/images/portfolios/fly2sonic/1.png",
+      "/images/portfolios/fly2sonic/2.png"
+    ],
+    "videogallery": false,
+    "url": "https://flareocean.io/",
+    "filters": ["blockchain", "AI"]
+  },
+  {
+    "id": 1,
     "title": "Cypherfighters",
     "subtitle": "NFT minting site (Ethereum Network)",
     "coverimage": "/images/portfolios/cypherfighters/0.jpg",
@@ -11,7 +25,10 @@
     ],
     "videogallery": false,
     "url": "https://6490efcc00fa3a48770d5035--glittery-pasca-e276af.netlify.app",
-    "filters": ["blockchain", "fullstack"]
+    "filters": [
+      "blockchain",
+      "fullstack"
+    ]
   },
   {
     "id": 2,

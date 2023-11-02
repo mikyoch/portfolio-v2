@@ -18,5 +18,10 @@
         "id": 4,
         "title": "blockchain",
         "value": "blockchain"
+    },
+    {
+        "id": 5,
+        "title": "AI",
+        "value": "AI"
     }
 ]

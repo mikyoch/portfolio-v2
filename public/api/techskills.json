@@ -2,21 +2,21 @@
     {
         "id": 1,
         "title": "Blockchain Development",
-        "percentage": 90
+        "percentage": 95
     },
     {
         "id": 2,
         "title": "Back-end Development",
-        "percentage": 85
+        "percentage": 90
     },
     {
         "id": 3,
         "title": "Front-end Development",
-        "percentage": 95
+        "percentage": 90
     },
     {
         "id": 4,
-        "title": "Mobile App Development",
-        "percentage": 80
+        "title": "Artificial Intelligence",
+        "percentage": 70
     }
 ]

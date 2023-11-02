@@ -65,7 +65,7 @@ const ContactSection = () => {
               </span>
               <div className="content">
                 <h5 className="mb-2">Contact address</h5>
-                <p className="mb-0">302 Gloucester St, Ottawa, Canada</p>
+                <p className="mb-0">92 King St E, Toronto, Ontario</p>
               </div>
             </div>
           </div>

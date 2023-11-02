@@ -7,7 +7,7 @@ const contact = () => {
   return (
     <Layout2>
       <Head>
-        <title>Eugene - React Personal Portfolio</title>
+        <title>Stephen - Blockchain Personal Portfolio</title>
       </Head>
 
       {/* Start Contact Section */}
@@ -17,7 +17,7 @@ const contact = () => {
       >
         <div className="container mx-auto">
           <SectionHeading
-            title="Contact Us"
+            title="Contact Me"
             watermark="Contact"
             animated={false}
           />

@@ -1,12 +1,12 @@
 {
-  "firstName": "Eugene",
-  "lastName": "Chiu",
-  "fullName": "Eugene Chiu",
+  "firstName": "Stephen",
+  "lastName": "Wu",
+  "fullName": "Stephen Wu",
   "thumbImage": "/images/formal-image.png",
   "largeImage": "/images/about-image.jpg",
-  "bio1": "Professional Full-stack developer with 7 years of hands-on experience in and meaningful contributions to implementing applications and solutions using a variety of programming languages and technologies.",
-  "bio2": "Active and passionate learner – always trying to stay up to date with the latest technologies. Emphasis on writing scalable, well-documented and clean code while ensuring that the customer is satisfied with the product and service provided.",
-  "age": 29,
+  "bio1": "Enthusiastic, spirited blockchain developer with 3+ years of experience in building decentralized applications and ecosystems. Delving into Rust & Move related and EVM Blockchain fields to master them. Eager and willing to acquire any other latest technologies.",
+  "bio2": "Passionate and driven competitive programmer with a proven track record of success in various programming competitions. Skilled in developing efficient and optimized algorithms, data structures, and software solutions that meet the highest standards of quality. Continuously exploring new technologies and programming languages to expand my knowledge and expertise.",
+  "age": 25,
   "nationality": "Singaporean",
   "languages": ["English"],
   "address": "302 Gloucester St, Ottawa, Canada",
@@ -14,9 +14,12 @@
   "socialAddress": {
     "facebook": "https://facebook.com",
     "twitter": "https://twitter.com/dev_akileus",
-    "github": "https://github.com/gitakileus",
-    "linkedin": "https://www.linkedin.com/in/eugene-chiu"
+    "github": "https://github.com/mikyoch",
+    "linkedin": "https://www.linkedin.com/in/stephen-wu-a17481231/",
+    "leetcode": "https://leetcode.com/cocodev/",
+    "codechef": "https://www.codechef.com/users/cocodev",
+    "codeforces": "https://codeforces.com/profile/byteroad1177"
   },
   "phoneNumbers": ["+1-347-349-5252"],
-  "emailAddress": ["akileus0902@gmail.com", "akileus0902@outlook.com"]
+  "emailAddress": ["cocodev0113@gmail.com", "zbitkut@gmail.com"]
 }

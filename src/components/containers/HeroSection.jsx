@@ -69,8 +69,8 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                     backDelay={2000}
                     strings={[
                       data.fullName,
-                      "Full-stack Developer",
-                      "Blockchain Developer",
+                      "Competitive Programmer",
+                      "Blockchain Engineer",
                     ]}
                     className="text-primary"
                   />
@@ -96,7 +96,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                 >
                   {data.bio1[0]}
                 </motion.span>
-                {data.bio1.substring(1)}
+                nthusiastic, spirited blockchain developer with 3+ years of experience in building decentralized applications and ecosystems. Delving into <b className="text-primary">Rust & Move</b> related and <b className="text-primary">EVM</b> Blockchain fields to master them. Eager and willing to acquire any other latest technologies.
               </motion.p>
               <motion.p
                 initial="hidden"

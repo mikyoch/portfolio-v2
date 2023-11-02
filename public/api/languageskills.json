@@ -1,67 +1,62 @@
 [
   {
     "id": 1,
-    "title": "Javascript",
-    "percentage": 99
+    "title": "Solidity",
+    "percentage": 90
   },
   {
     "id": 2,
-    "title": "React Js",
-    "percentage": 99
+    "title": "Rust",
+    "percentage": 90
   },
   {
     "id": 3,
-    "title": "Serverless",
+    "title": "Move",
     "percentage": 95
   },
   {
     "id": 4,
-    "title": "Angular Js",
-    "percentage": 80
+    "title": "C++",
+    "percentage": 99
   },
   {
     "id": 5,
-    "title": "AWS, GCP",
-    "percentage": 80
+    "title": "Python",
+    "percentage": 85
   },
   {
     "id": 6,
-    "title": "Typescript",
-    "percentage": 90
+    "title": "Javascript/Typescript",
+    "percentage": 99
   },
   {
     "id": 7,
-    "title": "Agile",
+    "title": "Data Strutures and Algorithms",
     "percentage": 99
   },
   {
     "id": 8,
-    "title": "Vue",
+    "title": "React/Vue.js",
     "percentage": 90
   },
   {
     "id": 9,
-    "title": "SQL (Postgre, MySQL, Dynamo)",
-    "percentage": 90
+    "title": "Optimization Challenge",
+    "percentage": 95
   },
   {
     "id": 10,
-    "title": "Python (Django)",
+    "title": "Agile",
     "percentage": 95
   },
   {
     "id": 11,
-    "title": "Php (Laravel)",
-    "percentage": 90
+    "title": "Machine Learning",
+    "percentage": 80
   },
   {
     "id": 12,
-    "title": "Node.js (Express, Nest)",
-    "percentage": 95
-  },
-  {
-    "id": 13,
-    "title": "Blockchain",
-    "percentage": 99
+    "title": "Natural language processing",
+    "percentage": 70
   }
 ]

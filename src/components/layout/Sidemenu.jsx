@@ -43,7 +43,7 @@ const Sidemenu = ({ fullMenu, fullMenuHandler }) => {
           </span>
           <Link href="/">
             <a className="block font-medium text-heading no-underline hover:text-primary lg:inline">
-              Eugene Chiu
+              Stephen Wu
             </a>
           </Link>
         </p>

@@ -32,7 +32,7 @@ const PostPage = ({ title, date, cover, category, content }) => {
   return (
     <Layout>
       <Head>
-        <title>{title} - Eugene - React Personal Portfolio</title>
+        <title>{title} - Stephen - Blockchain Personal Portfolio</title>
       </Head>
       <Breadcrumb
         title={title}

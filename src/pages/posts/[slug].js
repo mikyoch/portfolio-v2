@@ -35,7 +35,7 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
   return (
     <Layout>
       <Head>
-        <title>Eugene - React Personal Portfolio</title>
+        <title>Stephen - Blockchain Personal Portfolio</title>
       </Head>
       <Breadcrumb
         title="Blogs"

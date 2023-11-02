@@ -1,23 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Web Developer",
-    "meta": "Niyati Technologies Pte Ltd.",
-    "text": "As a front-end developer, I designed and built user-centric applications using React, TypeScript, and MobX, contributing to various projects including a STEAM course platform and a company management system, which improved administrative efficiency by 40%.",
-    "year": "2016 - 2018"
+    "title": "Software Engineer",
+    "meta": "Individual Developer",
+    "text": "As an individual developer, I had the opportunity to participate in the FTSO (Flare Time Series Oracle) for both the Flare/Songbird network and the Tellor reporter ecosystem. And also delved deeper into the Aptos/Sui network, which I believe will be a game-changer in the upcoming web3 world.",
+    "year": "2023 - Present"
   },
   {
     "id": 2,
-    "title": "Full-Stack Developer",
-    "meta": "Ranosys Technologies.",
-    "text": "As a full-stack developer, I've contributed to multiple teams, delivering single-page applications for sectors like real estate using React and Node.js, enhancing company website traffic, developing an automated SMS system, creating a customer management CRM system.",
-    "year": "2018 - 2020"
+    "title": "Lead Blockchain Developer",
+    "meta": "Slime Finance",
+    "text": "As a lead blockchain developer, I have successfully developed and deployed DeFi solutions with bridge integration that enabled seamless interoperability between different blockchain networks, while also building a decentralized marketplace that facilitated secure and transparent transactions for users worldwide.",
+    "year": "2021 - 2023"
   },
   {
     "id": 3,
-    "title": "Full-Stack Developer",
-    "meta": "Individual Programmer.",
-    "text": "As a full-stack developer, I've constructed and integrated front-end pages for multiple blockchain web applications using modern tech stacks, developed over a dozen smart contracts on various blockchain networks, spearheaded NFT and Defi projects, and crafted reusable React and Vue components, leading to a 30% reduction in development effort.",
-    "year": "2020 - Present"
+    "title": "Blockchain Engineer",
+    "meta": "Niftroyale",
+    "text": "As a Blockchain developer with DeFi experience developing and implementing smart contracts for DeFi applications, collaborating with other developers and stakeholders, and staying up-to-date with the latest developments in blockchain technology.",
+    "year": "2020 - 2021"
+  },
+  {
+    "id": 4,
+    "title": "Blockchain Engineer (Intern)",
+    "meta": "Enjin",
+    "text": "Through my internship at Enjin, I gained valuable experience in full-stack development and gained a deep understanding of blockchain technology and its applications. I enjoyed collaborating with my colleagues and working on projects that had a real impact on the company's growth.",
+    "year": "2019 - 2020"
   }
 ]

@@ -4,7 +4,7 @@
   "fullName": "Stephen Wu",
   "thumbImage": "/images/formal-image.png",
   "largeImage": "/images/about-image.jpg",
-  "bio1": "Enthusiastic, spirited blockchain developer with 3+ years of experience in building decentralized applications and ecosystems. Delving into Rust & Move related and EVM Blockchain fields to master them. Eager and willing to acquire any other latest technologies.",
+  "bio1": "Enthusiastic, spirited blockchain developer with 5+ years of experience in building decentralized applications and ecosystems. Delving into Rust & Move related and EVM Blockchain fields to master them. Eager and willing to acquire any other latest technologies.",
   "bio2": "Passionate and driven competitive programmer with a proven track record of success in various programming competitions. Skilled in developing efficient and optimized algorithms, data structures, and software solutions that meet the highest standards of quality. Continuously exploring new technologies and programming languages to expand my knowledge and expertise.",
   "age": 25,
   "nationality": "Singaporean",
@@ -13,13 +13,13 @@
   "freelance": "Available",
   "socialAddress": {
     "facebook": "https://facebook.com",
-    "twitter": "https://twitter.com/dev_akileus",
+    "twitter": "https://twitter.com/coco_byte",
     "github": "https://github.com/mikyoch",
     "linkedin": "https://www.linkedin.com/in/stephen-wu-a17481231/",
     "leetcode": "https://leetcode.com/cocodev/",
     "codechef": "https://www.codechef.com/users/cocodev",
     "codeforces": "https://codeforces.com/profile/byteroad1177"
   },
-  "phoneNumbers": ["+1-347-349-5252"],
+  "phoneNumbers": ["+1-760-565-3493"],
   "emailAddress": ["cocodev0113@gmail.com", "zbitkut@gmail.com"]
 }

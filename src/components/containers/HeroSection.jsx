@@ -96,7 +96,7 @@ const HeroSection = ({ blurred, scroll = true, typed = true }) => {
                 >
                   {data.bio1[0]}
                 </motion.span>
-                nthusiastic, spirited blockchain developer with 3+ years of experience in building decentralized applications and ecosystems. Delving into <b className="text-primary">Rust & Move</b> related and <b className="text-primary">EVM</b> Blockchain fields to master them. Eager and willing to acquire any other latest technologies.
+                nthusiastic, spirited blockchain developer with 5+ years of experience in building decentralized applications and ecosystems. Delving into <b className="text-primary">Rust & Move</b> related and <b className="text-primary">EVM</b> Blockchain fields to master them. Eager and willing to acquire any other latest technologies.
               </motion.p>
               <motion.p
                 initial="hidden"
